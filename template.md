@@ -11,19 +11,37 @@
 - **1st Step:** ***Create LVM and tag***
 <a id="step-2"></a>
 - **2nd Step:** ***Create Physical Volume:***
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 <a id="step-3"></a>
 - **3rd Step:** ***Creating Volume Group:***
+---
+---
+
+*italic* <br>
+**bold**<br>
+***bold/italic***
+---
+---
+
+
+```bash
+this is a copyable block
+```
+---
+---
+
+~~this is like this~~
+---
+---
+this is a `word into the code`
+---
+---
+ | product | spec |
+|-----|--------|
+| CPU | 8 Core |
+| RAM | 16GB   |
+---
+---
+<details>
+  <summary>Click This</summary>
+This is a text
+</details>
